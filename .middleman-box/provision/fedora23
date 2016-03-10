@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sudo dnf --best --allowerasing -y install libcurl-devel 
